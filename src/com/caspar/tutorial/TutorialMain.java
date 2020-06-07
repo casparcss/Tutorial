@@ -1,6 +1,6 @@
-package com.caspar.toutorial;
+package com.caspar.tutorial;
 
-public class ToutorialMain {
+public class TutorialMain {
 	
 	public static void main(String [] args) {
 
